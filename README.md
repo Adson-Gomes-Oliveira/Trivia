@@ -28,7 +28,7 @@ para melhor perfomance e entrega da equipe, segue abaixo os membros da equipe:
 - Pedro Guimarães Figueiredo (https://github.com/pedrofigueiredo25);  
 - Vinicius Jacques e Gabriel (https://www.linkedin.com/in/vinicius-jacques-gabriel/);  
 
-Aplicação que simula uma loja online com pesquisa de produtos, carrinho de compras e uma página de checkout.
+Aplicação de um jogo Trivia com gerenciamento de estado global ( Redux ).
 
 ---
 
